@@ -1,0 +1,42 @@
+body{
+    background-color: azure;
+    font-family: 'Janda Silly Monkey', sans-serif;
+                                                
+                                                
+}
+
+.header_div{
+    background-color: beige;
+    color: cadetblue;
+    font-size: 30px;
+}
+
+.header_div p{
+    color: cornflowerblue;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+
+button{
+    background-color: #d754e3;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+img
+{
+ size: 60px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: mediumslateblue;
+    width: 100%;
+    line-height: 3;
+    background-color: paleturquoise;
+    text-shadow:  5px 5px 5px rgb(50, 29, 185);
+    font-size: 20px;
+}
